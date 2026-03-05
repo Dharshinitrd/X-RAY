@@ -50,3 +50,4 @@ if uploaded_file:
         st.balloons()
 
 st.info("**Built with ResNet18 • Trained on medical X-rays • 100% test accuracy**")
+
